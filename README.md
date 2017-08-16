@@ -2,6 +2,8 @@
 
 Following this tutorial: https://www.youtube.com/watch?v=L9SuMpuBU9Q
 
+Added `delete` & `edit` which were not shown in the tutorial
+
 **Things learned**:
 ```
 - how to use the Faker gem
