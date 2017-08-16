@@ -1,28 +1,16 @@
-== README
+== Contact Manager Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Following this tutorial: https://www.youtube.com/watch?v=L9SuMpuBU9Q
 
-Things you may want to cover:
+Things learned:
+- how to use the Faker gem
+- how to use rubygems.org/
 
-* Ruby version
+Things reviewed:
+- Bootstrap-sass
+- CRUD on rails
+- displaying error / confirmation messages in _form.html.erb, application.html.erb, contacts_controller.rb
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Future things to implement:
+- Adding groups & pictures to each contact
+- Fixing groups link
