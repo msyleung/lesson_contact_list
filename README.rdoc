@@ -1,11 +1,11 @@
-== Contact Manager Application
+# Contact Manager Application
 
 Following this tutorial: https://www.youtube.com/watch?v=L9SuMpuBU9Q
 
 Things learned:
 ```
-- how to use the Faker gem
-- how to use rubygems.org/
+• how to use the Faker gem
+• how to use rubygems.org/
 ```
 
 Things reviewed:
